@@ -1,2 +1,2 @@
 Set objWShell = CreateObject(“Wscript.Shell”) 
-objWShell.run "cmd /c バッチファイル.bat", vbHide 
+objWShell.run "cmd /c bluss.bat", vbHide 
